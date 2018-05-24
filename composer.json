@@ -1,0 +1,16 @@
+{
+  "name": "caseyfw/next-prodigy-release",
+  "description": "Display the next prodigy release name.",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Casey Fulton",
+      "email": "casey@caseyfulton.com"
+    }
+  ],
+  "require": {
+    "knplabs/github-api": "^2.8",
+    "php-http/guzzle6-adapter": "^1.1"
+  }
+}
